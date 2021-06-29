@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hydevtools",
+  "name": "hydevtools",
+  "description": "hydevtools",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gsquaredxc"],
+  "credits": "gsquaredxc, HDanke",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

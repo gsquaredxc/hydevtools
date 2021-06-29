@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.gsquaredxc.hydevtools",
+  "refmap": "mixins.hydevtools.refmap.json",
+  "mixins": [
+  ],
+  "verbose": true
+}
